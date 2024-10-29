@@ -4,7 +4,11 @@
 ## Short summary
 
 
-A two-month study undertaken by three current or recent students at Leeds University under the guidance of Congruence Engine Co-Is Popple and Butterworth and in dialogue with Congruence Engine Research fellows. The challenge was to explore the application of various novel approaches to the spatial and sonic reanimation of the historical Dalton Mills in Keighley, West Yorkshire, following its recent dereliction due to an extensive fire: both as possible from current and historical photographic material and, more speculatively, by reference to visual and other data sources contemporaneous with its industrial heyday. These included data drawn from other aspects of the project, from the Science Museum collection, and through a collaboration with the West Yorkshire Historical Environment Record Office, and reflected complementary local manufacturing in the form of early twentieth century sales publicity from the Keighley-based Hattersley’s machine making company. The work was initiated with reference to the preceding ‘Neural Radiance Field Imaging’ investigation and aimed to inform more theoretical work on the aesthetics and ethics of AI in reanimating the past, by Popple and Butterworth.
+A two-month study undertaken by three current or recent students at Leeds University under the guidance of Congruence Engine Co-Is Popple and Butterworth and in dialogue with Congruence Engine Research fellows. The challenge was to explore the application of various novel approaches to the spatial and sonic reanimation of the historical Dalton Mills in Keighley, West Yorkshire, following its recent dereliction due to an extensive fire: both as possible from current and historical photographic material and, more speculatively, by reference to visual and other data sources contemporaneous with its industrial heyday. 
+
+These included data drawn from other aspects of the project, from the Science Museum collection, and through a collaboration with the West Yorkshire Historical Environment Record Office, and reflected complementary local manufacturing in the form of early twentieth century sales publicity from the Keighley-based Hattersley’s machine making company. 
+
+The work was initiated with reference to the preceding ‘Neural Radiance Field Imaging’ investigation and aimed to inform more theoretical work on the aesthetics and ethics of AI in reanimating the past, by Popple and Butterworth.
 
 ## Research questions
 
